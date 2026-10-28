@@ -2,7 +2,7 @@
 
 A consulting-style assessment of whether a proposed **Kolhapur mini-hub** could improve V5 Logistics and Warehousing's Bhiwandi-centred Maharashtra network, based on estimated road driving times.
 
-This report was created and prepared by **Mahir Valani**. | **Route validation date:** 23 October 2026
+This report was created and prepared by **Mahir Valani**.
 
 ## Objective
 Screen selected origins and destinations to identify where a Kolhapur mini-hub looks promising and where Bhiwandi should remain the serving hub, and recommend a selective two-hub structure rather than replacing Bhiwandi.
